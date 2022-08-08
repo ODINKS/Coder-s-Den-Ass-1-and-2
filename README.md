@@ -1,2 +1,2 @@
-# Coder-s-Den-Ass-1-and-2
-To Submit Days 1 and 2 Assignment
+# Coder's Den Assignment
+To Submit all exercises of the 30-days-of-JavaScript by Asabeneh.
